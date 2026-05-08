@@ -22,7 +22,7 @@
     "color_large_image_bg": "#0f0f0f",
     "color_header": "#ffffff",
     "color_header_text": "#000000",
-    "color_announcement": "#ce0e2d",
+    "color_announcement": "#02a7e1",
     "color_announcement_text": "#ffffff",
     "color_footer": "#ffffff",
     "color_footer_text": "#000000",
@@ -75,10 +75,10 @@
     "cart_additional_buttons": false,
     "cart_notes_enable": false,
     "cart_terms_conditions_enable": false,
-    "social_facebook_link": "https://www.facebook.com/Chumsusa",
-    "social_twitter_link": "https://twitter.com/ChumsUSA",
-    "social_instagram_link": "https://www.instagram.com/chumsusa",
-    "social_youtube_link": "https://www.youtube.com/user/ChumsInc",
+    "social_facebook_link": "",
+    "social_twitter_link": "",
+    "social_instagram_link": "",
+    "social_youtube_link": "",
     "favicon": "shopify://shop_images/BoobyBirdLogo_RGB_SQ.jpg",
     "show_breadcrumbs": true,
     "show_breadcrumbs_collection_link": false,
@@ -109,31 +109,7 @@
         }
       }
     },
-    "content_for_index": [],
-    "blocks": {
-      "14060646107696862457": {
-        "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-        "disabled": false,
-        "settings": {}
-      },
-      "12120936241911852800": {
-        "type": "shopify://apps/judge-me-reviews/blocks/reviews_tab/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-        "disabled": true,
-        "settings": {
-          "position": "right"
-        }
-      },
-      "1232542678405107163": {
-        "type": "shopify://apps/instafeed/blocks/head-block/c447db20-095d-4a10-9725-b5977662c9d5",
-        "disabled": false,
-        "settings": {}
-      },
-      "5017882195547572635": {
-        "type": "shopify://apps/sc-easy-redirects/blocks/app/be3f8dbd-5d43-46b4-ba43-2d65046054c2",
-        "disabled": false,
-        "settings": {}
-      }
-    }
+    "content_for_index": []
   },
   "presets": {
     "Modern": {

@@ -17,8 +17,8 @@
         "announcement-0": {
           "type": "announcement",
           "settings": {
-            "text": "Free Domestic Shipping",
-            "link_text": "On orders $25 or more",
+            "text": "Frete grátis para todo o Brasil!",
+            "link_text": "",
             "link": ""
           }
         }
@@ -36,20 +36,24 @@
         "header-0": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Chums_Logo_Badge_Red_RGB_87dfbad8-0a4e-49d4-bbe5-6a365d4c916e.png",
-            "desktop_logo_width": 140,
-            "mobile_logo_width": 110
+            "logo": "shopify://shop_images/carters_logo.webp",
+            "desktop_logo_width": 200,
+            "mobile_logo_width": 140
           }
         }
       },
       "block_order": [
         "header-0"
       ],
+      "custom_css": [
+        "/* Logo centralizada no mobile (já está por padrão) */.header__heading {text-align: center;}",
+        "/* Logo à esquerda no desktop */@media (min-width: 750px) {.header__heading {text-align: left; } .header__heading-logo {margin: 0; }}"
+      ],
       "settings": {
-        "main_menu_link_list": "main-menu-2021",
+        "main_menu_link_list": "",
         "hover_menu": false,
         "mega_menu_images": true,
-        "main_menu_alignment": "left",
+        "main_menu_alignment": "center-drawer",
         "header_style": "sticky",
         "sticky_index": false,
         "sticky_collection": false,
