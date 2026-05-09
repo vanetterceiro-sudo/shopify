@@ -558,9 +558,8 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".btn.add-to-cart {color: var(--colorBtnPrimary); border-color: var(--colorBtnPrimary); font-weight: 700;}",
-      ".drawer .cart__remove {display: block;}",
-      ".site-nav__link--has-dropdown svg.icon-chevron-down {display: none;}"
+      "/* Mobile: logo centralizada */.header-layout--left .site-header__logo {display: flex; justify-content: center;}",
+      "/* Desktop: logo à esquerda */@media only screen and (min-width: 769px) {.header-layout--left .site-header__logo {display: block; justify-content: flex-start; }}"
     ]
   }
 }

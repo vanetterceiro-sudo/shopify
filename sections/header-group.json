@@ -34,7 +34,14 @@
       "type": "shogun-custom-html",
       "name": "Shogun Custom HTML",
       "settings": {
-        "html": "<div style=\"height: 28px;\"></div>"
+        "html": "<div style=\"height: 18px;\"></div>"
+      }
+    },
+    "shogun_custom_html_XQYwFG": {
+      "type": "shogun-custom-html",
+      "name": "Shogun Custom HTML",
+      "settings": {
+        "html": "<div style=\"height: 18px;\"></div>"
       }
     },
     "header": {
@@ -52,15 +59,12 @@
       "block_order": [
         "header-0"
       ],
-      "custom_css": [
-        "/* Logo centralizada no mobile (já está por padrão) */.header__heading {text-align: center;}",
-        " /* Logo à esquerda no desktop */@media (min-width: 750px) {.header__heading {text-align: left; } .header__heading-logo {margin: 0; }}"
-      ],
+      "custom_css": [],
       "settings": {
         "main_menu_link_list": "",
         "hover_menu": false,
         "mega_menu_images": true,
-        "main_menu_alignment": "center-drawer",
+        "main_menu_alignment": "center-left",
         "header_style": "sticky",
         "sticky_index": false,
         "sticky_collection": false,
@@ -75,6 +79,7 @@
   "order": [
     "announcement",
     "shogun_custom_html_qrCBqR",
-    "header"
+    "header",
+    "shogun_custom_html_XQYwFG"
   ]
 }

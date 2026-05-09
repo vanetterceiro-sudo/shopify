@@ -19,21 +19,61 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://collections/2025-new-products-colors",
+            "link": "shopify://collections",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "#000000",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/MatchSomeRays_DesktopHero_6e837be6-81bb-42c3-96ed-2f0bd944c38b.jpg",
-            "image_mobile": "shopify://shop_images/MatchSomeRays_MobileHero_7bb1ecff-66e6-4892-82f6-ed720c8bb8a4.jpg",
+            "image": "shopify://shop_images/Hero-Carters-MEC-1231-body-macacao-99_1800x-1-1.webp",
+            "image_mobile": "shopify://shop_images/WhatsApp_Image_2025-06-01_at_18.17.52_3_900x_2ecc9027-934f-40ac-8d1f-19bf971ec04d_900x-1.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "image_ch3PrV": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://collections",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#000000",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Hero-Carters-MEC-1457-nova-colecao_1800x-1024x297.webp",
+            "image_mobile": "shopify://shop_images/WhatsApp_Image_2025-06-01_at_18.17.52_2_900x_af8c7736-b223-4de3-bed9-ae9fbcf86089_900x-2.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "image_F4dcW7": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://collections",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#000000",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Hero-Site-Carters-MEC-754-40OFF_1800x_9797c52b-e6d2-4f65-bd26-bc35637dea56_1800x-1.webp",
+            "image_mobile": "shopify://shop_images/WhatsApp_Image_2025-06-01_at_18.17.53_900x_c5095613-78c8-4241-8736-4f1c2dd3127c_900x-1.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
         }
       },
       "block_order": [
-        "slideshow-0"
+        "slideshow-0",
+        "image_ch3PrV",
+        "image_F4dcW7"
       ],
       "settings": {
         "section_height": "natural",
@@ -47,17 +87,6 @@
     },
     "rich-text": {
       "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "title": "Since 1983 Chums has been about the Guides, Dirtbags, River Rats and Weekend Warriors."
-          }
-        }
-      },
-      "block_order": [
-        "heading"
-      ],
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -83,7 +112,6 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Homepage_Category_Images-Retainers.jpg",
             "image_mask": "square",
             "image_width": 650,
             "title": "",
@@ -96,7 +124,6 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Homepage_Category_Images-Wallets.jpg",
             "image_mask": "square",
             "image_width": 650,
             "title": "",
@@ -109,7 +136,6 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Homepage_Category_Images-Bags.jpg",
             "image_mask": "square",
             "image_width": 650,
             "title": "",
@@ -122,7 +148,6 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Homepage_Category_Images-Apparel.jpg",
             "image_mask": "square",
             "image_width": 650,
             "title": "",
@@ -135,7 +160,6 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Homepage_Category_Images-Accessories.jpg",
             "image_mask": "none",
             "image_width": 650,
             "title": "",
@@ -148,7 +172,6 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/Homepage_Category_Images-New.jpg",
             "image_mask": "square",
             "image_width": 650,
             "title": "",
@@ -201,8 +224,6 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-bottom horizontal-center",
-            "image": "shopify://shop_images/SurfshortsWebArt.jpg",
-            "image_mobile": "shopify://shop_images/SurfshortsWebArt_Mobile2_1.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
