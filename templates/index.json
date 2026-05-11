@@ -21,7 +21,7 @@
             "subheading": "",
             "link": "shopify://collections",
             "link_text": "",
-            "link_2": "",
+            "link_2": "shopify://collections",
             "link_text_2": "",
             "color_accent": "#000000",
             "text_align": "vertical-center horizontal-center",
@@ -79,7 +79,7 @@
         "section_height": "natural",
         "mobile_height": "auto",
         "parallax": false,
-        "style": "bars",
+        "style": "dots",
         "autoplay": false,
         "autoplay_speed": 7,
         "lazyload_images": false

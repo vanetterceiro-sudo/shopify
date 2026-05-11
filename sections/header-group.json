@@ -37,13 +37,6 @@
         "html": "<div style=\"height: 18px;\"></div>"
       }
     },
-    "shogun_custom_html_XQYwFG": {
-      "type": "shogun-custom-html",
-      "name": "Shogun Custom HTML",
-      "settings": {
-        "html": "<div style=\"height: 18px;\"></div>"
-      }
-    },
     "header": {
       "type": "header",
       "blocks": {
@@ -73,6 +66,13 @@
         "show_locale_selector": false,
         "show_currency_selector": false,
         "show_currency_flags": true
+      }
+    },
+    "shogun_custom_html_XQYwFG": {
+      "type": "shogun-custom-html",
+      "name": "Shogun Custom HTML",
+      "settings": {
+        "html": "<div style=\"height: 18px;\"></div>"
       }
     }
   },
